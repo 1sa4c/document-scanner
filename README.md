@@ -1,6 +1,10 @@
 # Document Scanner
 A camera based document scanner using OpenCV
 
+<img src="img.jpg" height="300"> <img src="ImageBin.jpg" height="300">
+
+*It works with colored images as well*
+
 ## Getting started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
