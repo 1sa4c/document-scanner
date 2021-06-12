@@ -32,7 +32,7 @@ You can also build this libraries from the source, but it's easier to use pip
 You can use the program to scan a file in a real time video or an image file.
 
 ### Video version
-After installing everything, simply open open your terminal, navigate to the folder your downnloaded "main.py" file is and type
+After installing everything, simply open your terminal, navigate to the folder you downloaded "main.py" file and type
 
 ```
 python main.py
@@ -62,11 +62,3 @@ If you are satisfied with the object detection, you can press 's' to save the re
 Obs.:
 - If your image is to big it may not fit your screen during the scanning, but the saved file is going to be full
 - More detailed images work better with this algorithm.
-      
-## Meta
-
-Isaac Rabello – [@younes_isaac](https://twitter.com/younes_isaac) – igyrabello@gmail.com
-
-Distributed under the GPL v3 license. See ``LICENSE`` for more information.
-
-[https://github.com/isaacyounes04/](https://github.com/isaacyounes04/)
