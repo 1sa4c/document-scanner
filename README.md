@@ -60,5 +60,5 @@ When a squared object (paper, photo, card, etc..) is detected, some blue dots wi
 If you are satisfied with the object detection, you can press 's' to save the region of the image selected or 'esc' to quit. A new folder called 'Scanned' is going to be created (if it doesn't already exists) and your scanned file is going to be saved there
 
 Obs.:
-- If your image is to big it may not fit your screen during the scanning, but the saved file is going to be full
+- If your image is too big it may not fit your screen during the scanning, but the saved file is going to be full
 - More detailed images work better with this algorithm.
